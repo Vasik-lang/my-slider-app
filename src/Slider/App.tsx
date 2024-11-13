@@ -1,6 +1,6 @@
 import React from 'react';
-import Slider from './Slider';
-import './App.css'; 
+import Slider from './Slider.component';
+import './Slider.mod.css';
 
 const App = () => {
   return (
